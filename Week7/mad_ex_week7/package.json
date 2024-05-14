@@ -1,0 +1,20 @@
+{
+  "name": "mad_ex_week7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test1": "jest --testNamePattern='Question 1:'",
+    "test2": "jest --testNamePattern='Question 2:'",
+    "test3": "jest --testNamePattern='Question 3:'",
+    "test4": "jest --testNamePattern='Question 4:'",
+    "test5": "jest --testNamePattern='Question 5:'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
